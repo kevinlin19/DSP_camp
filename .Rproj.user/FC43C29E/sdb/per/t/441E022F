@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "getwd()\nsetwd(\"~/DSP_camp/\")\nthm <- function() theme(text=element_text(size = 15, family = \"STHeiti\"))\nlibrary(gdata)\nlibrary(reshape2)\n\n#導入92~94受雇人員人數&薪資\nemployee92_95 <- read.csv(\"92_95employee_data.csv\", fileEncoding = \"BIG5\")\nemployee97_99 <- read.csv(\"97_99employee_data.csv\", fileEncoding = \"BIG5\")\nemployee100_101 <- read.csv(\"100_101employee_data.csv\", fileEncoding = \"BIG5\")\nemployee102_104 <- read.csv(\"102_104employee_data.csv\", fileEncoding = \"BIG5\")\n#92~104初任人員薪資\nfirst92_95 <- read.csv(\"92_95first_data.csv\", fileEncoding = \"BIG5\")\nfirst97_99 <- read.csv(\"97_99first_data.csv\", fileEncoding = \"BIG5\")\nfirst100_101 <- read.csv(\"100_101first_data.csv\", fileEncoding = \"BIG5\")\nfirst102_104 <- read.csv(\"102_104first_data.csv\", fileEncoding = \"BIG5\")\n#92~104工作時數\nworktime92_95 <- read.csv(\"92_95worktime_data.csv\", fileEncoding = \"BIG5\")\nworktime97_99 <- read.csv(\"97_99worktime_data.csv\", fileEncoding = \"BIG5\")\nworktime100_101 <- read.csv(\"100_101worktime_data.csv\", fileEncoding = \"BIG5\")\nworktime102_104 <- read.csv(\"102_104worktime_data.csv\", fileEncoding = \"BIG5\")\n#工作滿意度\nhappy_data <- read.csv(\"happiness.csv\", fileEncoding = \"BIG5\")\n\n",
+    "created" : 1467299539073.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1123490840",
+    "id" : "441E022F",
+    "lastKnownWriteTime" : 1467564504,
+    "last_content_update" : 1467564504098,
+    "path" : "~/R_DSP/DSP_camp/load.R",
+    "project_path" : "load.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

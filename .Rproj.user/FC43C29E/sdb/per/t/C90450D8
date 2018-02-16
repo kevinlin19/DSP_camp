@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1467546815671.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C90450D8",
+    "lastKnownWriteTime" : 2314885530279477254,
+    "last_content_update" : 1467546815671,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "dk7k1e1ye2",
+        "caption" : "worktime",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=worktime&cache_key=dk7k1e1ye2",
+        "displayedObservations" : 48,
+        "environment" : "",
+        "object" : "worktime",
+        "totalObservations" : 48,
+        "variables" : 3
+    },
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

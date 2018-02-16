@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1467551079462.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3D312FD6",
+    "lastKnownWriteTime" : 4294967302,
+    "last_content_update" : 1467551079462,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "koa7d2239c",
+        "caption" : "employee100_101",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=employee100_101&cache_key=koa7d2239c",
+        "displayedObservations" : 22,
+        "environment" : "",
+        "object" : "employee100_101",
+        "totalObservations" : 22,
+        "variables" : 9
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
